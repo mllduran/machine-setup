@@ -25,3 +25,5 @@
    4.2 Install `nodemon` 
    
       * `npm install -g nodemon`
+      
+5. Install PostMan (link)[https://www.postman.com/downloads/]

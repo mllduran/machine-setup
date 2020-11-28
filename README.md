@@ -7,6 +7,12 @@
    1.1 Install VS Code command `PATH`
    
       *  `Open the Command Palette via (⇧⌘P) and type shell command to find the Shell Command`
+   
+   1.2 Install VS Code Extensions
+     
+      * (ES Lint)[https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint]
+      * (GitLens)[https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens]
+      * (Bracket Pair Colorizer)[https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer]
 
 2. Install iTerm2 (link)[https://iterm2.com/downloads.html]
 

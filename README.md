@@ -19,3 +19,9 @@
 3. Install Docker (link)[https://www.docker.com/products/docker-desktop]
 
 4. Install Node JS (link)[https://nodejs.org/en/download/]
+   
+   4.1 Install NVM (link))[https://github.com/nvm-sh/nvm#installing-and-updating]
+
+   4.2 Install `nodemon` 
+   
+      * `npm install -g nodemon`

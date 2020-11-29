@@ -27,3 +27,6 @@
       * `npm install -g nodemon`
       
 5. Install PostMan (link)[https://www.postman.com/downloads/]
+
+6. Install ohmyzsh (link)[https://github.com/ohmyzsh/ohmyzsh]
+   6.1 Install Powerlevel 10k

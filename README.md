@@ -13,6 +13,7 @@
       * (ES Lint)[https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint]
       * (GitLens)[https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens]
       * (Bracket Pair Colorizer)[https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer]
+      * (vscode-icons)[https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons]
 
 2. Install iTerm2 (link)[https://iterm2.com/downloads.html]
 
